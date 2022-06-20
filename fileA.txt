@@ -7,3 +7,4 @@ restart
 make branch
 conflict
 squash
+rebase
