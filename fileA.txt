@@ -8,3 +8,4 @@ make branch
 conflict
 squash
 rebase
+変更
